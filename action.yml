@@ -1,0 +1,6 @@
+# action.yml
+name: 'Notify Slack JIRA Etc'
+description: yada yada'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
