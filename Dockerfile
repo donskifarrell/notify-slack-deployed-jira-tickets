@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL "com.github.actions.name"="notify-slack-jira-tickets-deployed"
+LABEL "com.github.actions.name"="df-notify-slack-jira-tickets-deployed"
 LABEL "com.github.actions.description"="Notifies Slack about any JIRA tickets mentioned in commit messages since the last tag"
 LABEL "com.github.actions.icon"="hash"
 LABEL "com.github.actions.color"="black"
